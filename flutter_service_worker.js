@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "9b31eef15b513943119bd2297287fc1b",
+  "main.dart.js": "a619299265d14def57273586864ee179",
 "index.php": "239881a71516b04ab536871c7bed2157",
 "version.json": "22595b50b08d87acc00ff1e0f2ab28c5",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
@@ -12,7 +12,7 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/NOTICES": "2c62337291bb573703ddb16b4afcfc16",
+"assets/NOTICES": "c584a2451590b7e9c3ae7feba4d9c9ad",
 "assets/AssetManifest.json": "c36c429ef4388f3ec1821fa23ed4c4f8",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
@@ -23,8 +23,8 @@ const RESOURCES = {
 "manifest.json": "949ee71ca6489093bb022c9d6d15cb18",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "Procfile": "4a2c3153bf781123ec55cc9d14f2b9ac",
-"index.html": "958593e918e41114a7202be331f482a5",
-"/": "958593e918e41114a7202be331f482a5"
+"index.html": "47fbe7760548ae584ba4783914bedf59",
+"/": "47fbe7760548ae584ba4783914bedf59"
 };
 
 // The application shell files that are downloaded before a service worker can
